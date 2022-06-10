@@ -11,7 +11,6 @@ names <- as.data.frame(bciCons$tip.label)
 names <- names %>% left_join(fams, by = c("bciCons$tip.label" = "Species_Name"))
 
 bciCons$family <- names$fam
-bciEdges <- data.frame(bciCons$family, bciCons$edge)
 p <- ggtree(bciCons)+
   geom_tiplab(align=TRUE,size=2)+
   xlim(NA, 25)
@@ -36,29 +35,29 @@ p <- ggtree(bciCons)+
   xlim(NA, 30)
 p+geom_cladelab(node=19, 
                  label="Natalidae",
-                 offset=5, align=TRUE, size = 2)+
-   geom_cladelab(node=78, 
+                 offset=5.5, align=TRUE, size = 2)+
+   geom_cladelab(node=79, 
                label="Phyllostomidae",
-               color="red2", offset=5, align=TRUE)+
-  geom_cladelab(node=114,
+               color="red2", offset=5.5, align=TRUE)+
+  geom_cladelab(node=116,
                 label="Mormoopidae",
-                offset=5, align=TRUE, size = 2)+
-  geom_cladelab(node=118,
+                offset=5.5, align=TRUE, size = 2)+
+  geom_cladelab(node=120,
                 label="Noctilionidae",
-                offset=5, align=TRUE, size = 2)+
-  geom_cladelab(node=117,
+                offset=5.5, align=TRUE, size = 2)+
+  geom_cladelab(node=119,
                 label="Thyropteridae",
-                offset=5, align=TRUE, size = 2)+
-  geom_cladelab(node=121,
+                offset=5.5, align=TRUE, size = 2)+
+  geom_cladelab(node=123,
                 label="Molossidae",
-                offset=5, align=TRUE, size = 2)+
-  geom_cladelab(node=125,
+                offset=5.5, align=TRUE, size = 2)+
+  geom_cladelab(node=127,
                 label="Vespertilionidae",
-                offset=5, align=TRUE, size = 2)+
-  geom_cladelab(node=132, 
+                offset=5.5, align=TRUE, size = 2)+
+  geom_cladelab(node=134, 
                 label="Emballonuridae",
-                offset=5, align=TRUE, size = 2)
-ggsave("./BCI_Phylogeny.pdf")  
+                offset=5.5, align=TRUE, size = 2)
+ggsave("./BCI_Phylogeny.pdf", width = 8, height = 10)  
   
   
 
