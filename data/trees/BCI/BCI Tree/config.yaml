@@ -1,0 +1,177 @@
+job_id: tree-pruner-e5561da9-85d0-489c-af7d-f9c4b5f53ae9
+email: teague.omara@selu.edu
+tree_base: mammaltree
+tree_set: MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl
+sample_size: 100
+names: [Eidolon_helvum, Rhynchonycteris_naso, Saccopteryx_bilineata, Saccopteryx_leptura,
+  Cormura_brevirostris, Centronycteris_centralis, Peropteryx_kappleri, Peropteryx_macrotis,
+  Diclidurus_albus, Cyttarops_alecto, Noctilio_albiventris, Noctilio_leporinus, Pteronotus_parnellii,
+  Pteronotus_gymnonotus, Pteronotus_personatus, Micronycteris_hirsuta, Micronycteris_microtis,
+  Micronycteris_schmidtorum, Lampronycteris_brachyotis, Trinycteris_nicefori, Macrophyllum_macrophyllum,
+  Tonatia_saurophila, Lophostoma_brasiliense, Lophostoma_silvicolum, Mimon_crenulatum,
+  Phyllostomus_discolor, Phyllostomus_hastatus, Phylloderma_stenops, Trachops_cirrhosus,
+  Chrotopterus_auritus, Vamyrum_spectrum, Glossophaga_soricina, Glossophaga_commissarisi,
+  Lonchophylla_robusta, Carollia_brevicauda, Carollia_perspicillata, Carollia_castanea,
+  Sturnira_luisi, Uroderma_bilobatum, Uroderma_magnirostrum, Platyrrhinus_helleri,
+  Chiroderma_villosum, Vamypyrodes_caraccioli, Vampyressa_nymphaea, Vampyressa_thyone,
+  Mesophylla_macconnelli, Enchisthenes_hartii, Artibeus_jamaicensis, Artibeus_lituratus,
+  Dermanura_phaeotis, Dermanura_watsoni, Ametrida_centurio, Centurio__senex, Desmodus_rotundus,
+  Diaemus_youngi, Natalus_stramineus, Thyroptera_tricolor, Thyroptera_discifera, Myotis_nigricans,
+  Myotis_albescens, Myotis_riparius, Rhogeessa_tumida, Eptesicus_furinalis, Eptesicus_brasiliensis,
+  Lasiurus_ega, Lasiurus_blossevillii, Molossus_molossus, Molossus_coibensis, Molossus_bondae,
+  Molossus_currentium, Eumops_hansae, Eumops_auripendulus, Eumops_glaucinus, Promops_centralis,
+  Nyctinomops_laticaudatus, Cynomops_greenhalli, Eumops_underwoodi]
+sample_trees: [MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7576.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5246.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0745.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5795.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4674.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1972.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4411.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6478.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7688.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7362.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0356.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4004.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3637.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1886.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6024.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4118.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1872.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1426.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7169.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9256.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2821.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6948.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1546.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6913.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1361.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0270.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3962.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8876.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2968.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8237.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6900.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1270.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8196.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1901.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7373.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6940.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5130.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8675.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6892.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7487.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0174.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0279.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7694.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3914.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6289.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1306.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7641.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6178.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1993.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7904.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2193.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3847.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8292.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0654.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5359.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7394.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0186.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6244.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8793.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0579.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2566.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0259.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3065.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4286.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1391.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6641.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1041.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1633.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0294.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1281.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9352.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1431.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9173.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6629.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2323.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8175.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9949.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4491.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0364.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4803.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1932.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1825.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5601.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6155.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6536.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3302.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4735.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6963.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1451.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3886.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4445.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2390.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8307.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9322.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8859.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4820.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9433.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1476.tre,
+  MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0545.tre, MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0715.tre]
+status: COMPLETED
+created_at: "2022-06-10T16:31:58Z"
+completed_at: "2022-06-10T16:32:30Z"
+bad_names: {MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0174.tre: [Vamyrum_spectrum,
+    Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0186.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0259.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0270.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0279.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0294.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0356.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0364.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0545.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0579.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0654.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0715.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_0745.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1041.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1270.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1281.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1306.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1361.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1391.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1426.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1431.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1451.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1476.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1546.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1633.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1825.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1872.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1886.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1901.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1932.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1972.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_1993.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2193.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2323.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2390.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2566.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2821.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_2968.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3065.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3302.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3637.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3847.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3886.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3914.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_3962.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4004.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4118.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4286.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4411.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4445.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4491.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4674.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4735.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4803.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_4820.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5130.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5246.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5359.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5601.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_5795.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6024.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6155.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6178.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6244.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6289.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6478.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6536.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6629.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6641.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6892.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6900.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6913.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6940.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6948.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_6963.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7169.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7362.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7373.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7394.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7487.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7576.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7641.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7688.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7694.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_7904.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8175.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8196.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8237.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8292.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8307.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8675.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8793.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8859.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_8876.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9173.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9256.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9322.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9352.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9433.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae], MamPhy_BDvr_Completed_5911sp_topoCons_FBDasZhouEtAl_9949.tre: [
+    Vamyrum_spectrum, Vamypyrodes_caraccioli, Centurio__senex, Molossus_bondae]}
